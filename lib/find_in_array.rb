@@ -6,5 +6,5 @@ def find_element_index(array, value_to_find)
   end
 end
 
-find_element_index([1,2,3], 2)
+find_element_index([1,5,3], 5)
 
